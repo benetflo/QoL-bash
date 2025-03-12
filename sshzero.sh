@@ -1,0 +1,3 @@
+#!bin/bash
+  ssh {ZERO_USER}@{ZERO_IP}          # Connects via SSH to a Raspberry Pi Zero 2 W or another machine.
+                                     # ZERO_USER and ZERO_IP must be set before using chmod +x ....
