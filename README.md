@@ -1,5 +1,5 @@
 # QoL-bash
-I am using file name 'hello' as an example. 
+I am using file name 'hello' as an example. \n
 Change it to the name of the file you are using.
 Commands to make bash script file executable from any directory:
 
