@@ -11,5 +11,5 @@ hello
 ## List of commands:
 * acp.sh
   - Git shortcut. Add (all), commit, push in one command.
-* sshzero
+* sshzero.sh
   - ssh shortcut. Needs USER and IP of machine to function.
