@@ -8,3 +8,8 @@ chmod +x hello
 mv hello /usr/local/bin/
 hello
 ```
+## List of commands:
+* acp.sh
+  - Git shortcut. Add (all), commit, push in one command.
+* sshzero
+  - ssh shortcut. Needs USER and IP of machine to function.
