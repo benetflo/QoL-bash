@@ -13,3 +13,5 @@ hello
   - Git shortcut. Add (all), commit, push in one command.
 * sshzero.sh
   - ssh shortcut. Needs USER and IP of machine to function.
+* cproj.sh
+  - creates the foundation for a c-project.
